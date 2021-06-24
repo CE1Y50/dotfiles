@@ -30,6 +30,6 @@ colorscheme wal
 
 ca Nt NERDTree
 ca nt tabNext
-ca pt tabprevious
 
-
+//curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+//  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
